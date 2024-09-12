@@ -19,9 +19,9 @@ This is the audio example page. You will find some audio examples of ambient noi
 - Proposed model without any power constraint
 - Proposed model with $\Delta \mathcal{P}_{max} = $ 2, 1, 0.5 dBA
 
-# Restaurant / Café
 <br/>
 
+# Restaurant / Café
 
 <html>
 <!-- <head>
@@ -319,7 +319,7 @@ This is the audio example page. You will find some audio examples of ambient noi
                 <td>PDNMM (2 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
-                        <source src="audio/bus_neural_016_power_2_mix.wav" type="audio/wav"/>
+                        <source src="audio/bus/bus_neural_016_power_2_mix.wav" type="audio/wav"/>
                         Your browser does not support the audio element.
                     </audio>
                 </td>
