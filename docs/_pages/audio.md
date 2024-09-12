@@ -20,14 +20,8 @@ This is the audio example page. You will find some audio examples of ambient noi
 - Proposed model with $\Delta \mathcal{P}_{max} = $ 2, 1, 0.5 dBA
 
 # Restaurant / Café
+<br/>
 
-> Unprocessed audios
-
-<html>
-    <audio controls>
-        <source src="audio/restaurant/restaurant_init_music.wav"/>
-    </audio>
-</html>
 
 <html>
 <!-- <head>
