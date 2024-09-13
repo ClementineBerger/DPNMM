@@ -1,7 +1,7 @@
 ---
 title: ""
 layout: single
-permalink: /
+permalink: /results
 author_profile: false
 classes: wide
 header:
