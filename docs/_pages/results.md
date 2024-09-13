@@ -29,11 +29,30 @@ Both metrics are computed by frequency ranges: broadband, first third of Bark ba
 
 # Results
 
-<embed src="figures/nmr.pdf" />
 
-<!-- <figure>
-  <a href="figures/nmr.pdf" class="image-popup" title="This is a figure caption.">
-    <embed src="figures/nmr.pdf">
-  </a>
-  <figcaption>This is a figure caption.</figcaption>
-</figure> -->
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affichage de deux images côte à côte</title>
+    <style>
+        /* Conteneur Flex pour les images */
+        .image-container {
+            display: flex; /* Utilisation de Flexbox pour disposer les images en ligne */
+            align-items: flex-start; /* Alignement des images par le haut */
+            gap: 10px; /* Espacement de 10px entre les images, ajustable selon vos préférences */
+        }
+        .image-container img {
+            max-width: 100%; /* Assure que les images ne dépassent pas la largeur du conteneur parent */
+            height: auto; /* Maintient le ratio d'aspect des images */
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <!-- Les images à afficher côte à côte -->
+        <img src="figures/nmr-1.png" alt="Image 1">
+        <img src="figures/gld-1.png" alt="Image 2">
+    </div>
+</body>
+</html>
