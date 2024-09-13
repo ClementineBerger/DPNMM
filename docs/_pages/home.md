@@ -13,7 +13,7 @@ excerpt: #"title"
 
 Welcome to the demo website. This website is under construction.
 
-You will find audio examples [here](./audio.md) and addtionnal results here.
+You will find audio examples [here](./audio.md) and additional results [here](./results.md).
 
 # Abstract
 
