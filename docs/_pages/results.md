@@ -29,3 +29,5 @@ $$\text{GLD} = \frac{1}{N} \sum | \hat{\mathcal{P}}_{dBA}^{music}(n) - \mathcal{
 Both metrics are computed by frequency ranges: broadband, first third of Bark bands (low), second third (medium), and last third (high). 
 
 # Results
+
+![image-left](figures/nmr.pdf){: .align-left}
