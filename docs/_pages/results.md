@@ -29,5 +29,9 @@ Both metrics are computed by frequency ranges: broadband, first third of Bark ba
 
 # Results
 
-<!-- ![image-left](figures/nmr.pdf){: .align-left} -->
-![image-center](figures/nmr.pdf){: .align-center}
+<figure>
+  <a href="figures/nmr.pdf" class="image-popup" title="This is a figure caption.">
+    <embed src="figures/nmr.pdf">
+  </a>
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
