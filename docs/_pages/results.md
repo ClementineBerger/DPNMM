@@ -3,7 +3,6 @@ title: ""
 layout: single
 permalink: /results
 author_profile: false
-classes: wide
 header:
   overlay_color: "#cc3131" #"#000"
   overlay_filter: "0.3"
@@ -30,4 +29,5 @@ Both metrics are computed by frequency ranges: broadband, first third of Bark ba
 
 # Results
 
-![image-left](figures/nmr.pdf){: .align-left}
+<!-- ![image-left](figures/nmr.pdf){: .align-left} -->
+![image-center](figures/nmr.pdf){: .align-center}
