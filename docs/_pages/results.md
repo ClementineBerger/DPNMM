@@ -26,6 +26,6 @@ where $M = \sum_{n, \nu} (1-m_\nu(n))$ with $m_\nu$ a mask such that $m_\nu(n) =
 
 $$\text{GLD} = \frac{1}{N} \sum | \hat{\mathcal{P}}_{dBA}^{music}(n) - \mathcal{P}_{dBA}^{music}(n) | .$$
 
-Both metrics are computed by frequency \secor{bands}{ranges}: broadband, first third of Bark bands (low), second third (medium), and last third (high). 
+Both metrics are computed by frequency ranges: broadband, first third of Bark bands (low), second third (medium), and last third (high). 
 
 # Results
