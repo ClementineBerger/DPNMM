@@ -29,6 +29,7 @@ Both metrics are computed by frequency ranges: broadband, first third of Bark ba
 
 # Results
 
+## General results
 
 <html lang="fr">
 <head>
@@ -36,16 +37,16 @@ Both metrics are computed by frequency ranges: broadband, first third of Bark ba
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Affichage de deux images côte à côte</title>
     <style>
-        /* Conteneur Flex pour les images */
+        /* Conteneur pour centrer les images */
         .image-container {
-            display: flex; /* Utilisation de Flexbox pour disposer les images en ligne */
-            align-items: flex-start; /* Alignement des images par le haut */
-            gap: 10px; /* Espacement de 10px entre les images, ajustable selon vos préférences */
-            max-width: 100%; /* Limite la largeur totale du conteneur à 100% de son conteneur parent */
-            overflow: hidden; /* Cache tout contenu qui dépasse du conteneur */
+            text-align: center; /* Centre le contenu à l'intérieur du conteneur */
         }
+        /* Style des images */
         .image-container img {
-            max-width: 45%; /* Limite la largeur des images à 45% du conteneur pour deux images côte à côte */
+            display: block; /* Affiche les images comme des éléments de bloc */
+            margin: 20px auto; /* Centre les images horizontalement avec une marge automatique */
+            width: 80%; /* Définit la largeur des images à 80% du conteneur parent */
+            max-width: 800px; /* Optionnel : limite la largeur maximale des images */
             height: auto; /* Maintient le ratio d'aspect des images */
         }
     </style>
