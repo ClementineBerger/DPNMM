@@ -8,6 +8,10 @@ header:
   overlay_color: "#cc3131" #"#000"
   overlay_filter: "0.3"
 excerpt: #"title"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
 On this page you can find the results presented in the article as well as additional ones that explore the performance of the system according to music genre, type of headphones, environment etc. 
@@ -22,4 +26,6 @@ where $M = \sum_{n, \nu} (1-m_\nu(n))$ with $m_\nu$ a mask such that $m_\nu(n) =
 
 $$\text{GLD} = \frac{1}{N} \sum | \hat{\mathcal{P}}_{dBA}^{music}(n) - \mathcal{P}_{dBA}^{music}(n) | .$$
 
-Both metrics are computed by frequency \secor{bands}{ranges}: broadband, first \secor{tier}{third} of Bark bands (low), second third (medium), and last third (high). 
+Both metrics are computed by frequency \secor{bands}{ranges}: broadband, first third of Bark bands (low), second third (medium), and last third (high). 
+
+# Results
