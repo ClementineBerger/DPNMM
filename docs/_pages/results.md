@@ -29,7 +29,7 @@ Both metrics are computed by frequency ranges: broadband, first third of Bark ba
 
 # Results
 
-## General results
+## General results (presented in the article)
 
 <html lang="fr">
 <head>
@@ -59,3 +59,4 @@ Both metrics are computed by frequency ranges: broadband, first third of Bark ba
     </div>
 </body>
 </html>
+
