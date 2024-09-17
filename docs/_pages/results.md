@@ -70,13 +70,17 @@ The noises on the test are filtered with the frequency responses of 3 models of 
 - Sony earbuds WF-1000XM4 with sound isolating sleeves
 - Apple Airpods with smooth tips
 {: .text-justify}
+
 ![image-center](figures/earbuds_fr.png){: .align-center}
+
 The Bose and Sony headphones act as low-pass filters while the Airpods have a much smoother effect.
+{: .text-justify}
 
 Per model of headphones the obtained results are :
 
 ![image-center](figures/earbuds_nmr.png){: .align-center}
 ![image-center](figures/earbuds_gld.png){: .align-center}
+
 
 
 
