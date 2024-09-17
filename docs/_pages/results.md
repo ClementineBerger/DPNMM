@@ -69,5 +69,5 @@ The noises on the test are filtered with the frequency responses of 3 models of 
 {: .text-justify}
 
 ![image-center](figures/earbuds_nmr.png){: .align-center}
-
+![image-center](figures/earbuds_gld.png){: .align-center}
 
