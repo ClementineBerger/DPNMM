@@ -102,3 +102,15 @@ The noise set is composed of samples from defined environments :
 ### GLD
 
 ![image-center](figures/environment_gld.png){: .align-center}
+
+## SNR
+
+We can also view the metrics by SNR band (in dB) between unprocessed music and noise.
+
+### NMR
+
+![image-center](figures/snr_nmr.png){: .align-center}
+
+### GLD
+
+![image-center](figures/snr_gld.png){: .align-center}
