@@ -76,11 +76,29 @@ The noises on the test are filtered with the frequency responses of 3 models of 
 The Bose and Sony headphones act as low-pass filters while the Airpods have a much smoother effect.
 {: .text-justify}
 
-Per model of headphones the obtained results are :
+### NMR
 
 ![image-center](figures/earbuds_nmr.png){: .align-center}
+
+### GLD
+
 ![image-center](figures/earbuds_gld.png){: .align-center}
 
+## Environments
 
+The noise set is composed of samples from defined environments :
+- Urban
+- Transportation (train / plane / boat)
+- Cocktail party (restaurant / café)
+- Construction site
+- Beach
+- Indoor office
+{: .text-justify} 
 
+### NMR
 
+![image-center](figures/environment_nmr.png){: .align-center}
+
+### GLD
+
+![image-center](figures/environment_gld.png){: .align-center}
