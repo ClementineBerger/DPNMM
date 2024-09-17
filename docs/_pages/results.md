@@ -26,7 +26,7 @@ where $M = \sum_{n, \nu} (1-m_\nu(n))$ with $m_\nu$ a mask such that $m_\nu(n) =
 $$\text{GLD} = \frac{1}{N} \sum | \hat{\mathcal{P}}_{dBA}^{music}(n) - \mathcal{P}_{dBA}^{music}(n) | .$$
 
 Both metrics are computed by frequency ranges: broadband, first third of Bark bands (low), second third (medium), and last third (high). 
-
+{: .text-justify}
 # Results
 
 ## General results (presented in the article)
@@ -35,7 +35,7 @@ Both metrics are computed by frequency ranges: broadband, first third of Bark ba
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Affichage de deux images côte à côte</title>
+    <title></title>
     <style>
         /* Conteneur pour centrer les images */
         .image-container {
@@ -59,4 +59,15 @@ Both metrics are computed by frequency ranges: broadband, first third of Bark ba
     </div>
 </body>
 </html>
+
+## Earbuds impact
+
+The noises on the test are filtered with the frequency responses of 3 models of earbuds to reproduce their respective passive attenuations : 
+- Bose headphones QuietComfort
+- Sony earbuds WF-1000XM4 with sound isolating sleeves
+- Apple Airpods with smooth tips
+{: .text-justify}
+
+![image-center](figures/earbuds_nmr.png){: .align-center}
+
 
