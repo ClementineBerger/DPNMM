@@ -16,12 +16,15 @@ toc_sticky: true
 
 This is the audio example page. You can find some audio examples of ambient noise in several acoustic scenes and music processed by different systems :
 - Baseline model by Estreder et al.
-- Proposed model without any power constraint
-- Proposed model with $\Delta \mathcal{P}_{max} = $ 2, 1, 0.5 dBA
+- Proposed model DPNMM without any power constraint
+- DPNMM with $\Delta \mathcal{P}_{max} = $ 2, 1, 0.5 dBA
+{: .text-justify}
 
 For each environment, the noise is filtered with a headphone's frequency response to simulate its passive attenuation. 
+{: .text-justify}
 
 You can listen to the unprocessed music, the noise and the mix of the two. Then you can compare the perception of the noise in the unprocessed mix with the mixes obtained with the different systems.
+{: .text-justify}
 
 <br/>
 
