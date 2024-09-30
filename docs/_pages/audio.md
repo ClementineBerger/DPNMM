@@ -97,7 +97,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (1 dBA)</td>
+                <td>DPNMM (1 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/train/train_neural_016_power_1_mix.wav" type="audio/wav"/>
@@ -127,7 +127,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
         </thead> -->
         <tbody>
             <tr>
-                <td>PDNMM (no power)</td>
+                <td>DPNMM (no power)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/train/train_neural_016_nopower_mix.wav" type="audio/wav"/>
@@ -136,7 +136,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (2 dBA)</td>
+                <td>DPNMM (2 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/train/train_neural_016_power_2_mix.wav" type="audio/wav"/>
@@ -145,7 +145,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (0.5 dBA)</td>
+                <td>DPNMM (0.5 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/train/train_neural_016_power_0-5_mix.wav" type="audio/wav"/>
@@ -227,7 +227,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (1 dBA)</td>
+                <td>DPNMM (1 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/restaurant/restaurant_neural_016_power_1_mix.wav" type="audio/wav"/>
@@ -257,7 +257,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
         </thead> -->
         <tbody>
             <tr>
-                <td>PDNMM (no power)</td>
+                <td>DPNMM (no power)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/restaurant/restaurant_neural_016_nopower_mix.wav" type="audio/wav"/>
@@ -266,7 +266,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (2 dBA)</td>
+                <td>DPNMM (2 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/restaurant/restaurant_neural_016_power_2_mix.wav" type="audio/wav"/>
@@ -275,7 +275,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (0.5 dBA)</td>
+                <td>DPNMM (0.5 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/restaurant/restaurant_neural_016_power_0-5_mix.wav" type="audio/wav"/>
@@ -358,7 +358,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (1 dBA)</td>
+                <td>DPNMM (1 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/urban/urban_neural_016_power_1_mix.wav" type="audio/wav"/>
@@ -388,7 +388,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
         </thead> -->
         <tbody>
             <tr>
-                <td>PDNMM (no power)</td>
+                <td>DPNMM (no power)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/urban/urban_neural_016_nopower_mix.wav" type="audio/wav"/>
@@ -397,7 +397,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (2 dBA)</td>
+                <td>DPNMM (2 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/urban/urban_neural_016_power_2_mix.wav" type="audio/wav"/>
@@ -406,7 +406,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (0.5 dBA)</td>
+                <td>DPNMM (0.5 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/urban/urban_neural_016_power_0-5_mix.wav" type="audio/wav"/>
@@ -489,7 +489,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (1 dBA)</td>
+                <td>DPNMM (1 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/bus/bus_neural_016_power_1_mix.wav" type="audio/wav"/>
@@ -519,7 +519,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
         </thead> -->
         <tbody>
             <tr>
-                <td>PDNMM (no power)</td>
+                <td>DPNMM (no power)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/bus/bus_neural_016_nopower_mix.wav" type="audio/wav"/>
@@ -528,7 +528,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (2 dBA)</td>
+                <td>DPNMM (2 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/bus/bus_neural_016_power_2_mix.wav" type="audio/wav"/>
@@ -537,7 +537,7 @@ You can listen to the unprocessed music, the noise and the mix of the two. Then 
                 </td>
             </tr>
             <tr>
-                <td>PDNMM (0.5 dBA)</td>
+                <td>DPNMM (0.5 dBA)</td>
                 <td>
                     <audio controls controlslist="nodownload">
                         <source src="audio/bus/bus_neural_016_power_0-5_mix.wav" type="audio/wav"/>
