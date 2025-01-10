@@ -1,8 +1,8 @@
 # Deep Perceptual Noise Masking with Music Envelope Shaping (DPNMM)
 
-Welcome to the **Deep Perceptual Noise Masking with Music Envelope Shaping (DPNMM)** article repository! 
+Welcome to the ICASSP 2025 ***Perceptual Noise-Masking with Music through Deep Spectral Envelope Shaping*** paper repository! 
 
-This repository contains the companion code for the ICASSP 2025 paper.
+This repository contains the companion code for the **Deep Perceptual Noise Masking with Music Envelope Shaping** (DPNMM) model.
 
 ## Abstract
 
