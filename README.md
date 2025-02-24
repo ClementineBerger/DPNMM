@@ -14,7 +14,7 @@ People often listen to music in noisy environments, seeking to isolate themselve
 
 [:mag: Evaluation results](https://clementineberger.github.io/DPNMM/results)
 
-[:page_facing_up:]() [Paper]() 
+[:page_facing_up:]() [Paper](https://telecom-paris.hal.science/hal-04959656) 
 
 ## Setup
 
