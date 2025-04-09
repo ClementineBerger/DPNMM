@@ -19,7 +19,7 @@ People often listen to music in noisy environments, seeking to isolate themselve
 ## Erratum 
 
 A few typos crept into the text of the paper (but fortunately not into the code or the results):
-- In the masking loss, the absolute values are in fact simple brackets.
+- In the NMR metric, the absolute values are in fact simple brackets.
 - In the architecture figure all the dimensions of size 64 are in fact of size 32.
 
 ## Setup
